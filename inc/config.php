@@ -19,4 +19,4 @@
 			redir($command);
 		}
 	}
-?>
+?>r
